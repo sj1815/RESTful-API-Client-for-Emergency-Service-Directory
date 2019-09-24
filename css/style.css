@@ -1,0 +1,29 @@
+body{
+  background-color: lightskyblue;
+}
+
+.display-4 {
+  font-size: 2rem;
+  font-weight: 300;
+  line-height: 1.2;
+  font-weight: bold;
+  font-style: oblique;
+  text-align: center;
+}
+
+
+.dataTables_wrapper{
+  background-color: seashell;
+}
+
+h1{
+   font-weight: bold;
+}
+
+.blockquote{
+  font-size:20px;
+}
+
+legend{
+  font-style: italic;
+}
